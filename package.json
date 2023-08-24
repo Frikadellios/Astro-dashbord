@@ -5,6 +5,7 @@
   "author": "Mark Teekman",
   "homepage": "https://accessible-astro.dev",
   "scripts": {
+    "build": "astro build",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
